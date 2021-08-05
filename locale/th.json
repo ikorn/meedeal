@@ -1,0 +1,191 @@
+{
+  "user": {
+    "username": "ขื่อผู้ใช้งาน",
+    "first_name": "ชื่อ",
+    "last_name": "นามสกุล",
+    "name": "ชื่อ",
+    "email": "อีเมล์",
+    "email_confirm": "ยืนยันอีเมล์",
+    "password": "รหัสผ่าน",
+    "password_confirm": "ยืนยันรหัสผ่าน",
+    "display": "ชื่อผู้ใช้",
+    "created_at": "เข้าเป็นสมาชิกเมื่อ",
+    "level": "ระดับ",
+    "post_count": "จำนวนโพสท์",
+    "reputation": "คะแนน",
+    "signature": "ลายเซ็นท์"
+  },
+  "deal": {
+    "title": "หัวข้อ",
+    "detail": "รายละเอียด",
+    "link": "ลิงค์",
+    "category": "ประเภท",
+    "votes": "คะแนน",
+    "expired_on": "หมดอายุเมื่อ",
+    "expired": "หมดอายุ",
+    "posted_by": "ลงประกาศโดย",
+    "posted_on": "ลงประกาศเมื่อ",
+    "views_count": "จำนวนครั้งที่เข้าชม",
+    "comments_count": "จำนวนความคิดเห็น",
+    "image": "รูปประกอบ",
+    "tags": "แทก"
+  },
+  "comment": {
+    "content": "ความคิดเห็น",
+    "posted_by": "ตอบโดย",
+    "posted_on": "ตอบเมื่อ",
+    "edited_by": "แก้ไขโดย",
+    "edited_on": "แก้ไขเมื่อ",
+    "vote_score": "คะแนน"
+  },
+  "button": {
+    "home": "กลับสู่หน้าหลัก",
+    "ok": "ตกลง",
+    "cancel": "ยกเลิก",
+    "close": "ปิด",
+    "edit": "แก้ไข",
+    "delete": "ลบ",
+    "reply": "ตอบ",
+    "report": "แจ้งปัญหา",
+    "upload": "อัพโหลด",
+    "back": "กลับ",
+    "next": "ต่อไป",
+    "skip": "ข้าม"
+  },
+  "pages": {
+    "index": {
+      "title": "หน้าหลัก",
+      "sponsor": "ดีลที่น่าสนใจ",
+      "top": "ท็อปดีล"
+    },
+    "deals": {
+      "index": {
+        "title": "รายการดีล",
+        "no_data": "ไม่มีข้อมูล",
+        "search": "ค้นหา",
+        "category": "กรองโดยประเภท",
+        "tag": "กรองโดยแทก"
+      },
+      "id": {
+        "index": {
+          "title": "รายละเอียดดีล",
+          "no_image": "Upload image files (.png or .jpg) with size less than 1MB",
+          "load_replies": "Load more replies ..."
+        },
+        "edit": {
+          "title": "แก้ไขขัอมูลดีล",
+          "attachments": "Edit images",
+          "subtitle": "Add image",
+          "select": "Select image",
+          "clear": "Clear"
+        },
+        "report": {
+          "title": "แจ้งเตือนดีล",
+          "detail": "รายละเอียด"
+        }
+      },
+      "new": {
+        "title": "ลงประกาศดีล",
+        "step1": "Deal detail",
+        "step2": "Images",
+        "step3": "Preview",
+        "select": "Select images",
+        "clear": "Clear all images",
+        "submit": "Post deal",
+        "loading": "Please wait while loading."
+      }
+    },
+    "user": {
+      "index": {
+        "title": "ข้อมูลผู้ใช้",
+        "subtitle_about": "About me",
+        "subtitle_info": "User info",
+        "general_info": "General info",
+        "account_info": "Account info"
+      },
+      "edit_profile": {
+        "title": "แก้ไขข้อมูลผู้ใช้",
+        "error_update": "Error occurs, please try again"
+      },
+      "edit_email": {
+        "title": "แก้ไขที่อยู่อีเมล์",
+        "email_current": "Current e-mail",
+        "email_new": "New e-mail",
+        "email_confirm": "Confirm e-mail",
+        "error_wrong_password": "Invalid password",
+        "error_update": "Error occurs, please try again"
+      },
+      "edit_password": {
+        "title": "Edit password",
+        "password_current": "Current password",
+        "password_new": "New password",
+        "password_confirm": "Confirm password",
+        "error_wrong_password": "Invalid password",
+        "error_update": "Error occurs, please try again"
+      }
+    },
+    "sign_in": {
+      "title": "เข้าสู่ระบบ",
+      "subtitle_meedeal": "Sign-in using meedeal account.",
+      "keep": "คงสถานะการล็อกอิน",
+      "submit": "เข้าสู่ระบบ",
+      "trouble": "หากคุณไม่สามารถเข้าสู่ระบบได้",
+      "forgot": "ลืมรหัสผ่าน",
+      "sign_up": "สมัครสมาชิก",
+      "error": "User name or password is wrong",
+      "social": "เข้าสู่ระบบโดยใช้แอคเคาท์โซเชียลมีเดีย"
+    },
+    "sign_out": {
+      "title": "ออกจากระบบ",
+      "subtitle": "คุณต้องการออกจากระบบใช่หรือไม่?",
+      "error": "เกิดข้อผิดพลาดขึ้นระหว่างการทำการ",
+      "submit": "ออกจากระบบ"
+    },
+    "sign_up": {
+      "title": "สมัครสมาชิก",
+      "sign_in_info": "ข้อมูลสำหรับเข้าใช้งาน",
+      "account_info": "ข้อมูลบัญชีผู้ใช้",
+      "agree": "ฉันยอมรับ",
+      "terms": "ข้อตกลงการใช้งาน",
+      "code": "โค้ดลงทะเบียน",
+      "submit": "สมัครสมาชิก",
+      "back": "กลับไปหน้าเข้าใช้งานระบบ",
+      "not_avaiable": "Inputted username is not available.",
+      "error": "Error occurs, please try again",
+      "complete": "Please check e-mail and activate account from link inside e-mail."
+    },
+    "unverified": {
+      "title": "Your account is unverified",
+      "request": "Send verification email",
+      "success": "Please check e-mail and activate account from link inside e-mail.",
+      "error": "Error occurs, please try again"
+    },
+    "forgot": {
+      "title": "ลืมรหัสผ่าน",
+      "submit": "Request e-mail to reset password",
+      "success": "Please check e-mail and follow instruction inside e-mail to proceed.",
+      "error": "Error occurs, please try again",
+      "password_new": "New password",
+      "password_confirm": "Confirm password",
+      "error_wrong_password": "Invalid password",
+      "error_update": "Error occurs, please try again",
+      "error_input": "Please input user name or e-mail address."
+    },
+    "confirm": {
+      "title": "Confirm e-mail",
+      "error": "Cannot verify e-mail."
+    },
+    "confirm_email": {
+      "title": "Confirm e-mail",
+      "success": "Successful. Please check e-mail sent to your new e-mail address and follow instruction inside e-mail to proceed.",
+      "error": "Cannot verify e-mail."
+    },
+    "social": {
+      "loading": "Please wait while loading."
+    },
+    "not_found": {
+      "title": "Page not found",
+      "subtitle": "Page not found"
+    }
+  }
+}

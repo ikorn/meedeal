@@ -1,0 +1,191 @@
+{
+  "user": {
+    "username": "User name",
+    "first_name": "First name",
+    "last_name": "Last name",
+    "name": "Name",
+    "email": "E-mail",
+    "email_confirm": "Confirm e-mail",
+    "password": "Password",
+    "password_confirm": "Confirm password",
+    "display": "Display Name",
+    "created_at": "Joined",
+    "level": "Level",
+    "post_count": "Number of posts",
+    "reputation": "Reputation",
+    "signature": "Signature"
+  },
+  "deal": {
+    "title": "Title",
+    "detail": "Detail",
+    "link": "URL",
+    "category": "Category",
+    "votes": "Votes",
+    "expired_on": "Expiration date",
+    "expired": "expired",
+    "posted_by": "Posted by",
+    "posted_on": "Posted on",
+    "views_count": "Views",
+    "comments_count": "Replies",
+    "image": "Images",
+    "tags": "Tags"
+  },
+  "comment": {
+    "content": "Reply detail",
+    "posted_by": "Posted by",
+    "posted_on": "Posted on",
+    "edited_by": "Edited by",
+    "edited_on": "Edited on",
+    "vote_score": "Votes"
+  },
+  "button": {
+    "home": "Back to Home",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "close": "Close",
+    "edit": "Edit",
+    "delete": "Delete",
+    "reply": "Reply",
+    "report": "Report problem",
+    "upload": "Upload",
+    "back": "Back",
+    "next": "Next",
+    "skip": "Skip"
+  },
+  "pages": {
+    "index": {
+      "title": "Home",
+      "sponsor": "Sponsor deals",
+      "top": "Top deals"
+    },
+    "deals": {
+      "index": {
+        "title": "Deals",
+        "no_data": "No data",
+        "search": "Search",
+        "category": "filter by category",
+        "tag": "filter by tag"
+      },
+      "id": {
+        "index": {
+          "title": "Deal",
+          "no_image": "Upload image files (.png or .jpg) with size less than 1MB",
+          "load_replies": "Load more replies ..."
+        },
+        "edit": {
+          "title": "Edit deal",
+          "attachments": "Edit images",
+          "subtitle": "Add image",
+          "select": "Select image",
+          "clear": "Clear"
+        },
+        "report": {
+          "title": "Report problem",
+          "detail": "Detail"
+        }
+      },
+      "new": {
+        "title": "Title",
+        "step1": "Deal detail",
+        "step2": "Images",
+        "step3": "Preview",
+        "select": "Select images",
+        "clear": "Clear all images",
+        "submit": "Post deal",
+        "loading": "Please wait while loading."
+      }
+    },
+    "user": {
+      "index": {
+        "title": "User info",
+        "subtitle_about": "About me",
+        "subtitle_info": "User info",
+        "general_info": "General info",
+        "account_info": "Account info"
+      },
+      "edit_profile": {
+        "title": "Edit user",
+        "error_update": "Error occurs, please try again"
+      },
+      "edit_email": {
+        "title": "Edit e-mail",
+        "email_current": "Current e-mail",
+        "email_new": "New e-mail",
+        "email_confirm": "Confirm e-mail",
+        "error_wrong_password": "Invalid password",
+        "error_update": "Error occurs, please try again"
+      },
+      "edit_password": {
+        "title": "Edit password",
+        "password_current": "Current password",
+        "password_new": "New password",
+        "password_confirm": "Confirm password",
+        "error_wrong_password": "Invalid password",
+        "error_update": "Error occurs, please try again"
+      }
+    },
+    "sign_in": {
+      "title": "Sign-in",
+      "subtitle_meedeal": "Sign-in using meedeal account.",
+      "keep": "Keep me sign-in",
+      "submit": "Sign-in",
+      "trouble": "Trouble with Sign-in?",
+      "forgot": "Forgot password?",
+      "sign_up": "Sign-up for new account",
+      "error": "User name or password is wrong",
+      "social": "Sign-in using social medial account."
+    },
+    "sign_out": {
+      "title": "Sign-out",
+      "subtitle": "This will sign you out of MeeDeal.com, Are you sure?",
+      "error": "Error occurs, please try again",
+      "submit": "Sign-out"
+    },
+    "sign_up": {
+      "title": "Sign-up for new account",
+      "sign_in_info": "Sign-in info.",
+      "account_info": "Account info",
+      "agree": "I agree to The",
+      "terms": "Terms and Conditions",
+      "code": "Registration code",
+      "submit": "Sign-up",
+      "back": "Back to Sign-in",
+      "not_avaiable": "Inputted username is not available.",
+      "error": "Error occurs, please try again",
+      "complete": "Please check e-mail and activate account from link inside e-mail."
+    },
+    "unverified": {
+      "title": "Your account is unverified",
+      "request": "Send verification email",
+      "success": "Please check e-mail and activate account from link inside e-mail.",
+      "error": "Error occurs, please try again"
+    },
+    "forgot": {
+      "title": "Forgot password",
+      "submit": "Request e-mail to reset password",
+      "success": "Please check e-mail and follow instruction inside e-mail to proceed.",
+      "error": "Error occurs, please try again",
+      "password_new": "New password",
+      "password_confirm": "Confirm password",
+      "error_wrong_password": "Invalid password",
+      "error_update": "Error occurs, please try again",
+      "error_input": "Please input user name or e-mail address."
+    },
+    "confirm": {
+      "title": "Confirm e-mail",
+      "error": "Cannot verify e-mail."
+    },
+    "confirm_email": {
+      "title": "Confirm e-mail",
+      "success": "Successful. Please check e-mail sent to your new e-mail address and follow instruction inside e-mail to proceed.",
+      "error": "Cannot verify e-mail."
+    },
+    "social": {
+      "loading": "Please wait while loading."
+    },
+    "not_found": {
+      "title": "Page not found",
+      "subtitle": "Page not found"
+    }
+  }
+}
